@@ -3,7 +3,7 @@
 Plugin Name: Latest Redirector
 Description: Redirects multiple chosen slugs to the latest post in a specified category or tag.
 Version: 2.2
-Author: Grok
+Author: impshum
 License: GPL2
 */
 
@@ -135,7 +135,7 @@ function lr_settings_page() {
             <?php
             settings_fields('lr_settings_group');
             ?>
-            
+
             <?php
             lr_rules_field_callback(); // Rules directly under title
             do_settings_sections('lr-settings'); // Instructions below rules
