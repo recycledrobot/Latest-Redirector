@@ -1,5 +1,7 @@
 # Cat Redirector - A WP Plugin
 
+![](cat.jpg)
+
 Version: 1.2  
 Author: impshum  
 Author URI: https://recycledrobot.co.uk
